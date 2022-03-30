@@ -466,14 +466,6 @@ section {
   transition: all 1s ease;
 }
 
-/*.portfolio .grid__item.hide {
-  opacity: 0;
-  max-width: 0;
-  padding: 0;
-  overflow: hidden;
-  transition: all .4s ease;
-}*/
-
 .portfolio-filters .grid__item {
   max-width: 50%;
   margin-bottom: 0;
@@ -498,7 +490,9 @@ section {
     font-size: 1.4rem;
   }
 }
-/* affichage WEB*/
+
+
+affichage WEB*/
 @media screen and (min-width:750px) {
   .portfolio .grid__item {
     max-width: 33.3333%;
