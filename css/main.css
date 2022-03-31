@@ -151,9 +151,8 @@ section {
   height:100%; 
   transform: translateX(-50%);
   position :absolute;
-
-
 }
+
 #portfolio .card .img-container {
   text-align: center;
   height: 243px;
